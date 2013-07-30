@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5314be07-33c7-4303-bc62-a98f6ce6d9ca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.jsyntaxpane" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserAboutDialog.java" afterPath="$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserAboutDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserMDIFrame.java" afterPath="$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserMDIFrame.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jclasslib-code.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1375166500273" ignored="false" />
+    <file path="/Dummy.txt" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1375167919571" ignored="false" />
     <file path="/ConstantMethodTypeInfo.java" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1373930519684" ignored="false" />
     <file path="/a.dummy" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1374087521828" ignored="false" />
     <file path="/GUIHelper.java" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1373931339886" ignored="false" />
@@ -23,7 +23,7 @@
     <file path="/SourceFileAttribute.java" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1374087726281" ignored="false" />
     <file path="/BytecodeBrowser.java" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1373944484914" ignored="false" />
     <file path="/ClassFile.java" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1373945513520" ignored="false" />
-    <file path="/BrowserMDIFrame.java" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1373945415068" ignored="false" />
+    <file path="/BrowserMDIFrame.java" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1375169241905" ignored="false" />
     <file path="/BasicDesktopManager.java" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1373945307344" ignored="false" />
     <file path="/BrowserInternalFrame.java" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1373946171633" ignored="false" />
     <file path="/ByteCodeDetailPane.java" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1373957597175" ignored="false" />
@@ -68,6 +68,7 @@
     <file path="/BrowserApplication.java" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1375164462995" ignored="false" />
     <file path="/LICENSE.jsyntaxpane" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1375166011081" ignored="false" />
     <file path="/README.md" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1375167109796" ignored="false" />
+    <file path="/a.java" changelist="5314be07-33c7-4303-bc62-a98f6ce6d9ca" time="1375169195427" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +83,39 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BootstrapMethodHyperlinkListener.java" line="75" class="org.gjt.jclasslib.browser.BootstrapMethodHyperlinkListener" package="org.gjt.jclasslib.browser">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserTreePane.java" line="350" class="org.gjt.jclasslib.browser.BrowserTreePane" package="org.gjt.jclasslib.browser">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -118,39 +152,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BootstrapMethodHyperlinkListener.java" line="75" class="org.gjt.jclasslib.browser.BootstrapMethodHyperlinkListener" package="org.gjt.jclasslib.browser">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserTreePane.java" line="350" class="org.gjt.jclasslib.browser.BrowserTreePane" package="org.gjt.jclasslib.browser">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -164,15 +165,6 @@
         <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/structures/attributes/CodeAttribute.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="121" column="16" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AttributeInfo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/structures/AttributeInfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="186" column="16" selection-start="6896" selection-end="6896" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -226,28 +218,36 @@
       <file leaf-file-name="BrowserApplication.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="38" selection-start="1851" selection-end="1851" vertical-scroll-proportion="0.0">
+            <state line="56" column="38" selection-start="1890" selection-end="1890" vertical-scroll-proportion="-6.96">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrowserMDIFrame.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserMDIFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="660" column="26" selection-start="24778" selection-end="24778" vertical-scroll-proportion="-7.96">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LICENSE.jsyntaxpane" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LICENSE.jsyntaxpane">
+      <file leaf-file-name="AbstractBranchInstruction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/bytecode/AbstractBranchInstruction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="192" vertical-scroll-proportion="0.0">
+            <state line="2" column="22" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
+      <file leaf-file-name="BrowserAboutDialog.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserAboutDialog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="548" selection-end="548" vertical-scroll-proportion="0.242741">
+            <state line="57" column="35" selection-start="1686" selection-end="1686" vertical-scroll-proportion="0.49655172">
               <folding />
             </state>
           </provider>
@@ -316,7 +316,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/jsyntaxpane/actions/ActionUtils.java" />
         <option value="$PROJECT_DIR$/src/jsyntaxpane/components/TokenMarker.java" />
         <option value="$PROJECT_DIR$/src/META-INF/services/jsyntaxpane.config.properties" />
         <option value="$PROJECT_DIR$/src/META-INF/services/jsyntaxpane.syntaxstyles.properties" />
@@ -325,7 +324,6 @@
         <option value="$PROJECT_DIR$/netbeans/jclasslibSuite/browser/src/org/netbeans/modules/jclasslib/BytecodeBrowser.java" />
         <option value="$PROJECT_DIR$/src/org/gjt/jclasslib/mdi/BasicDesktopManager.java" />
         <option value="$PROJECT_DIR$/src/org/gjt/jclasslib/structures/ClassFile.java" />
-        <option value="$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserMDIFrame.java" />
         <option value="$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserInternalFrame.java" />
         <option value="$PROJECT_DIR$/src/org/gjt/jclasslib/browser/detail/attributes/code/ByteCodeDetailPane.java" />
         <option value="$PROJECT_DIR$/src/org/gjt/jclasslib/browser/detail/attributes/CodeAttributeDetailPane.java" />
@@ -342,6 +340,8 @@
         <option value="$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserApplication.java" />
         <option value="$PROJECT_DIR$/LICENSE.jsyntaxpane" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserMDIFrame.java" />
+        <option value="$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserAboutDialog.java" />
       </list>
     </option>
   </component>
@@ -380,6 +380,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -429,6 +430,50 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jclasslib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bytecode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jclasslib-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jclasslib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jclasslib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="browser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jclasslib-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jclasslib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -450,7 +495,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -461,7 +505,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="Markdown" />
+    <property name="options.lastSelected" value="preferences.sourceCode.Java" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -662,7 +706,11 @@
       <created>1373999496638</created>
       <updated>1373999496638</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update README.md and add the jsyntaxpane license info">
+      <created>1375167171158</created>
+      <updated>1375167171158</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -680,19 +728,19 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32886598" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.6008273" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6701031" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.67011374" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988626" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -741,7 +789,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial effort to add source code display along with bytecode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md and add the jsyntaxpane license info" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -759,6 +807,7 @@
     <MESSAGE value="Inherit from ConstantStringInfo to use its detail pane" />
     <MESSAGE value="Use awt Desktop.browse(URI) to handle url display in cross platform manner" />
     <MESSAGE value="Initial effort to add source code display along with bytecode" />
+    <MESSAGE value="Update README.md and add the jsyntaxpane license info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -768,25 +817,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/structures/AttributeInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="186" column="16" selection-start="6896" selection-end="6896" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/structures/AbstractStructureWithAttributes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="12" selection-start="2161" selection-end="2161" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/structures/attributes/InnerClassesEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="659" selection-end="659" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/structures/AbstractStructure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="22" selection-start="752" selection-end="752" vertical-scroll-proportion="0.442" />
@@ -911,13 +941,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="38" selection-start="1851" selection-end="1851" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jsyntaxpane/JavaSyntaxKit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="13" selection-start="707" selection-end="707" vertical-scroll-proportion="0.1474501">
@@ -927,17 +950,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE.jsyntaxpane">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="192" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="192" selection-end="192" vertical-scroll-proportion="0.063403785" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="548" selection-end="548" vertical-scroll-proportion="0.23696145" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/bytecode/AbstractBranchInstruction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="22" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="548" selection-end="548" vertical-scroll-proportion="0.242741">
+        <state line="56" column="38" selection-start="1890" selection-end="1890" vertical-scroll-proportion="-6.96">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserMDIFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="660" column="26" selection-start="24778" selection-end="24778" vertical-scroll-proportion="-7.96">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/gjt/jclasslib/browser/BrowserAboutDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="35" selection-start="1686" selection-end="1686" vertical-scroll-proportion="0.49655172">
           <folding />
         </state>
       </provider>
@@ -971,7 +1020,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>actionmailer (v3.2.13, jruby-1.7.4-p392 (1)) [gem]</last-edited>
+          <last-edited>groovy-2.0.5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -983,7 +1032,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1000,7 +1049,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

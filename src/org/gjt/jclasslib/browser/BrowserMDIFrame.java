@@ -39,7 +39,8 @@ public class BrowserMDIFrame extends BasicMDIFrame {
     private static final String SETTINGS_CLASSES_CHOOSER_PATH = "classesChooserPath";
 
     private static final ImageIcon ICON_OPEN_CLASS_FILE = loadIcon("open_small.png");
-    private static final ImageIcon ICON_OPEN_CLASS_FILE_LARGE = loadIcon("open_large.png");
+    private static final ImageIcon ICON_OPEN_CLASS_FILE_LARGE = loadIcon("open_class_large.png");
+    private static final ImageIcon ICON_OPEN_SOURCE_FILE_LARGE = loadIcon("open_source_large.png");
     private static final ImageIcon ICON_OPEN_WORKSPACE = loadIcon("open_ws_small.png");
     private static final ImageIcon ICON_OPEN_WORKSPACE_LARGE = loadIcon("open_ws_large.png");
     private static final ImageIcon ICON_SAVE_WORKSPACE = loadIcon("save_ws_small.png");
@@ -390,7 +391,7 @@ public class BrowserMDIFrame extends BasicMDIFrame {
 
         JToolBar toolBar = new JToolBar();
         toolBar.add(actionOpenClassFile).setIcon(ICON_OPEN_CLASS_FILE_LARGE);
-        toolBar.add(actionOpenSourceFile).setIcon(ICON_OPEN_CLASS_FILE_LARGE);
+        toolBar.add(actionOpenSourceFile).setIcon(ICON_OPEN_SOURCE_FILE_LARGE);
         toolBar.add(actionBrowseClasspath).setIcon(ICON_BROWSE_CLASSPATH_LARGE);
         toolBar.addSeparator();
         toolBar.add(actionOpenWorkspace).setIcon(ICON_OPEN_WORKSPACE_LARGE);
@@ -693,7 +694,7 @@ public class BrowserMDIFrame extends BasicMDIFrame {
             } else if (this == actionReload) {
                 doReload();
             } else if (this == actionShowHomepage) {
-                GUIHelper.showURL("http://www.ej-technologies.com/products/jclasslib/overview.html");
+                GUIHelper.showURL("https://github.com/starksm64/jclasslib");
             } else if (this == actionShowEJT) {
                 GUIHelper.showURL("http://www.ej-technologies.com");
             } else if (this == actionShowHelp) {

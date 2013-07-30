@@ -59,7 +59,9 @@ public class BrowserAboutDialog extends JDialog {
         gc.insets.top = 5;
         contentPane.add(new JLabel("Version " + BrowserApplication.APPLICATION_VERSION), gc);
         contentPane.add(new JLabel("Copyright ej-technologies GmbH, 2001-2005"), gc);
+        contentPane.add(new JLabel("Copyright Scott Stark, 2013"), gc);
         contentPane.add(new JLabel("Licensed under the General Public License"), gc);
+        contentPane.add(new JLabel("and Apache License, Version 2.0"), gc);
 
         gc.weighty = 0;
         gc.insets.top = 20;

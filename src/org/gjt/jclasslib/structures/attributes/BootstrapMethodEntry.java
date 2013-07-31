@@ -24,7 +24,7 @@ import java.util.Arrays;
    u2 num_bootstrap_arguments;
    u2 bootstrap_arguments[num_bootstrap_arguments];
  }
- This is not a property AttributeInfo object because the base read/write do not apply as the initial two bytes
+ This is not a proper AttributeInfo object because the base read/write do not apply as the initial two bytes
  do not match:
  u2 attribute_name_index;
  u4 attribute_length;
@@ -32,6 +32,7 @@ import java.util.Arrays;
  This is an AttributeInfo so that the tree view includes the BootstrapMethodEntry for use as a hyperlink target
  @see org.gjt.jclasslib.browser.BootstrapMethodHyperlinkListener
 
+ @see <a href="http://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html#jvms-4.7.21">4.7.21. The BootstrapMethods attribute</a>
  * @author Scott Stark
  * @version $Revision:$
  */
